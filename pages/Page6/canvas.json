@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page5",
-    "slug": "page5",
+    "name": "Page6",
+    "slug": "page6",
     "layouts": [
       {
         "viewMode": false,
@@ -27,11 +27,8 @@
           "children": []
         },
         "layoutOnLoadActions": [],
-        "widgetNames": [
-          "MainContainer"
-        ],
         "validOnPageLoadActions": true,
-        "id": "Page5",
+        "id": "Page6",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -42,5 +39,5 @@
   },
   "deleted": false,
   "policies": [],
-  "gitSyncId": "6267e9106b6e0c77b7dcb2d2_6267e9656b6e0c77b7dcb2e9"
+  "gitSyncId": "629de4f46785fd688471e2c9_629de6ef6785fd688471e2de"
 }
