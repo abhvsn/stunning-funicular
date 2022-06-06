@@ -2,15 +2,15 @@
   "clientSchemaVersion": 1,
   "serverSchemaVersion": 4,
   "pageOrder": [
-    "Page3",
     "Page2",
+    "Page3",
     "Page1",
     "Page4",
     "Page5"
   ],
   "publishedPageOrder": [
-    "Page3",
     "Page2",
+    "Page3",
     "Page1",
     "Page4",
     "Page5"
