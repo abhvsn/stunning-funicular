@@ -28,9 +28,6 @@
           "children": []
         },
         "layoutOnLoadActions": [],
-        "widgetNames": [
-          "MainContainer"
-        ],
         "validOnPageLoadActions": true,
         "id": "Page1",
         "deleted": false,
@@ -42,6 +39,5 @@
     "policies": []
   },
   "deleted": false,
-  "policies": [],
   "gitSyncId": "6267e9106b6e0c77b7dcb2d2_6267e9106b6e0c77b7dcb2d4"
 }
