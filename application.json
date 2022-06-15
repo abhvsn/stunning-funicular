@@ -1,34 +1,4 @@
 {
-  "pages": [
-    {
-      "id": "Page3",
-      "isDefault": false
-    },
-    {
-      "id": "Page2",
-      "isDefault": false
-    },
-    {
-      "id": "Page1",
-      "isDefault": true
-    },
-    {
-      "id": "Page4",
-      "isDefault": false
-    },
-    {
-      "id": "Page5",
-      "isDefault": false
-    },
-    {
-      "id": "Page6",
-      "isDefault": false
-    },
-    {
-      "id": "Page7",
-      "isDefault": false
-    }
-  ],
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
@@ -43,5 +13,9 @@
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "isManualUpdate": false,
+  "createdAt": {
+    "seconds": 1654170526,
+    "nanos": 913000000
+  },
   "deleted": false
 }
