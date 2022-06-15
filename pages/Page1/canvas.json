@@ -38,7 +38,7 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 8.34375,
-              "leftColumn": 9,
+              "leftColumn": 4,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -64,6 +64,10 @@
           ]
         },
         "layoutOnLoadActions": [],
+        "widgetNames": [
+          "Audio1",
+          "MainContainer"
+        ],
         "validOnPageLoadActions": true,
         "id": "Page1",
         "deleted": false,
