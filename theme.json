@@ -1,1 +1,6 @@
-"BaseDomain(id=null, createdAt=null, updatedAt=null, createdBy=null, modifiedBy=null, deleted=false, deletedAt=null, policies=null, userPermissions=null, defaultResources=null, gitSyncId=null)"
+{
+  "name": "Classic",
+  "displayName": "Classic",
+  "isSystemTheme": true,
+  "deleted": false
+}

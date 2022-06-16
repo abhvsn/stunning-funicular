@@ -1,1 +1,43 @@
-"BaseDomain(id=null, createdAt=null, updatedAt=null, createdBy=null, modifiedBy=null, deleted=false, deletedAt=null, policies=[], userPermissions=null, defaultResources=null, gitSyncId=629de4f46785fd688471e2c9_629de6ef6785fd688471e2de)"
+{
+  "unpublishedPage": {
+    "name": "Page6",
+    "slug": "page6",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 800,
+          "containerStyle": "none",
+          "snapRows": 80,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 59,
+          "minHeight": 810,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "children": []
+        },
+        "layoutOnLoadActions": [],
+        "validOnPageLoadActions": true,
+        "id": "Page6",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": []
+  },
+  "deleted": false,
+  "policies": [],
+  "gitSyncId": "629de4f46785fd688471e2c9_629de6ef6785fd688471e2de"
+}

@@ -1,1 +1,22 @@
-"Application(name=null, organizationId=629366dec5dbf00e8452edeb, workspaceId=null, isPublic=null, pages=null, publishedPages=null, viewMode=false, appIsExample=false, unreadCommentThreads=0, clonedFromApplicationId=null, color=#FFEFDB, icon=single-person, slug=null, unpublishedAppLayout=Application.AppLayout(type=FLUID, width=null), publishedAppLayout=Application.AppLayout(type=FLUID, width=null), gitApplicationMetadata=null, lastDeployedAt=null, evaluationVersion=2, applicationVersion=2, lastEditedAt=null, forkingEnabled=null, isManualUpdate=false, isAutoUpdate=null, clientSchemaVersion=null, serverSchemaVersion=null, publishedModeThemeId=null, editModeThemeId=null, exportWithConfiguration=null)"
+{
+  "organizationId": "629366dec5dbf00e8452edeb",
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#FFEFDB",
+  "icon": "single-person",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "createdAt": {
+    "seconds": 1654170526,
+    "nanos": 913000000
+  },
+  "deleted": false
+}
