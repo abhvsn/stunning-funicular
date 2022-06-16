@@ -64,6 +64,10 @@
           ]
         },
         "layoutOnLoadActions": [],
+        "widgetNames": [
+          "Audio1",
+          "MainContainer"
+        ],
         "validOnPageLoadActions": true,
         "id": "Page1",
         "deleted": false,
