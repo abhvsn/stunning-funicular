@@ -19,7 +19,7 @@
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": "() => {\n\t\treturn \"appsmith\";\n\t}",
+      "body": "() => {\n\treturn \"appsmith\";\n}",
       "jsArguments": [],
       "isAsync": false
     },
