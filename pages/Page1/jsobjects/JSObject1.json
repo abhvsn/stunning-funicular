@@ -7,14 +7,14 @@
     "actions": [],
     "archivedActions": [],
     "body": "export default {
-\tmyVar1: [],
-\tmyVar2: {},
-\tmyFun1: () => {
-\t\treturn \"appsmith\";
-\t},
-\tmyFun2: async () => {
-\t\t//use async-await or promises
-\t}
+	myVar1: [],
+	myVar2: {},
+	myFun1: () => {
+		return \"appsmith\";
+	},
+	myFun2: async () => {
+		//use async-await or promises
+	}
 }",
     "variables": [
       {

@@ -22,8 +22,8 @@
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "body": "() => {
-\t\t//write code here
-\t}",
+		//write code here
+	}",
       "jsArguments": [],
       "isAsync": false
     },
@@ -39,8 +39,8 @@
     "messages": [],
     "jsonPathKeys": [
       "() => {
-\t\t//write code here
-\t}"
+		//write code here
+	}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,

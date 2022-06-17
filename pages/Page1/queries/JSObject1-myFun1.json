@@ -20,8 +20,8 @@
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "body": "() => {
-\t\treturn \"appsmith\";
-\t}",
+		return \"appsmith\";
+	}",
       "jsArguments": [],
       "isAsync": false
     },
@@ -37,8 +37,8 @@
     "messages": [],
     "jsonPathKeys": [
       "() => {
-\t\treturn \"appsmith\";
-\t}"
+		return \"appsmith\";
+	}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,

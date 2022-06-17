@@ -20,8 +20,8 @@
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "body": "async () => {
-\t\t//use async-await or promises
-\t}",
+		//use async-await or promises
+	}",
       "jsArguments": [],
       "isAsync": true
     },
@@ -37,8 +37,8 @@
     "messages": [],
     "jsonPathKeys": [
       "async () => {
-\t\t//use async-await or promises
-\t}"
+		//use async-await or promises
+	}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,

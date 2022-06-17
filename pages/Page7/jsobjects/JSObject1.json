@@ -8,13 +8,13 @@
     "actions": [],
     "archivedActions": [],
     "body": "export default {
-\tmyVar1: [],
-\tmyVar2: {},
-\tmyFun1: () => {
-\t\t//write code here
-\t},
-\tmyFun2: async () => {
-\t}
+	myVar1: [],
+	myVar2: {},
+	myFun1: () => {
+		//write code here
+	},
+	myFun2: async () => {
+	}
 }",
     "variables": [
       {
