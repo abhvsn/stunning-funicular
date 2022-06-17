@@ -23,7 +23,7 @@
       "encodeParamsToggle": true,
       "body": [
         "async () => {",
-        "\t}"
+        "	}"
       ],
       "jsArguments": [],
       "isAsync": true
@@ -39,7 +39,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "async () => {\n\t}"
+      "async () => {\n	}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,

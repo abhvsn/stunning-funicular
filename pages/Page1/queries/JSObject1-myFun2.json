@@ -21,8 +21,8 @@
       "encodeParamsToggle": true,
       "body": [
         "async () => {",
-        "\t\t//use async-await or promises",
-        "\t}"
+        "		//use async-await or promises",
+        "	}"
       ],
       "jsArguments": [],
       "isAsync": true
@@ -38,7 +38,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "async () => {\n\t\t//use async-await or promises\n\t}"
+      "async () => {\n		//use async-await or promises\n	}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,

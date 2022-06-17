@@ -21,8 +21,8 @@
       "encodeParamsToggle": true,
       "body": [
         "() => {",
-        "\t\treturn \"appsmith\";",
-        "\t}"
+        "		return \"appsmith\";",
+        "	}"
       ],
       "jsArguments": [],
       "isAsync": false
@@ -38,7 +38,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "() => {\n\t\treturn \"appsmith\";\n\t}"
+      "() => {\n		return \"appsmith\";\n	}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,

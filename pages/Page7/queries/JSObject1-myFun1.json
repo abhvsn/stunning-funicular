@@ -23,8 +23,8 @@
       "encodeParamsToggle": true,
       "body": [
         "() => {",
-        "\t\t//write code here",
-        "\t}"
+        "		//write code here",
+        "	}"
       ],
       "jsArguments": [],
       "isAsync": false
@@ -40,7 +40,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "() => {\n\t\t//write code here\n\t}"
+      "() => {\n		//write code here\n	}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
