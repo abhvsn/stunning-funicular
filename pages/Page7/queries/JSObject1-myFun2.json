@@ -21,7 +21,8 @@
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": "async () => {\n\t}",
+      "body": "async () => {
+\t}",
       "jsArguments": [],
       "isAsync": true
     },
@@ -36,7 +37,8 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "async () => {\n\t}"
+      "async () => {
+\t}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,

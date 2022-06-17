@@ -19,7 +19,9 @@
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": "async () => {\n\t\t//use async-await or promises\n\t}",
+      "body": "async () => {
+\t\t//use async-await or promises
+\t}",
       "jsArguments": [],
       "isAsync": true
     },
@@ -34,7 +36,9 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "async () => {\n\t\t//use async-await or promises\n\t}"
+      "async () => {
+\t\t//use async-await or promises
+\t}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
