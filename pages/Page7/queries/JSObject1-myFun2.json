@@ -21,7 +21,7 @@
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": "async () => {\n}",
+      "body": "async () => {\n\t}",
       "jsArguments": [],
       "isAsync": true
     },
