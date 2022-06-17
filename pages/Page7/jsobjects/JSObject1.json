@@ -7,15 +7,17 @@
     "pluginType": "JS",
     "actions": [],
     "archivedActions": [],
-    "body": "export default {
-	myVar1: [],
-	myVar2: {},
-	myFun1: () => {
-		//write code here
-	},
-	myFun2: async () => {
-	}
-}",
+    "body": [
+      "export default {",
+      "\tmyVar1: [],",
+      "\tmyVar2: {},",
+      "\tmyFun1: () => {",
+      "\t\t//write code here",
+      "\t},",
+      "\tmyFun2: async () => {",
+      "\t}",
+      "}"
+    ],
     "variables": [
       {
         "name": "myVar1",

@@ -21,9 +21,11 @@
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": "() => {
-		//write code here
-	}",
+      "body": [
+        "() => {",
+        "\t\t//write code here",
+        "\t}"
+      ],
       "jsArguments": [],
       "isAsync": false
     },
@@ -38,9 +40,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "() => {
-		//write code here
-	}"
+      "() => {\n\t\t//write code here\n\t}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
