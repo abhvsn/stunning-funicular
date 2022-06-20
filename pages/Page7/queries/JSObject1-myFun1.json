@@ -1,5 +1,4 @@
 {
-  "organizationId": "629366dec5dbf00e8452edeb",
   "pluginType": "JS",
   "pluginId": "js-plugin",
   "unpublishedAction": {
@@ -21,11 +20,7 @@
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": [
-        "() => {",
-        "		//write code here",
-        "	}"
-      ],
+      "body": "() => {\n\t\t//write code here\n\t}",
       "jsArguments": [],
       "isAsync": false
     },
@@ -40,7 +35,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "() => {\n		//write code here\n	}"
+      "() => {\n\t\t//write code here\n\t}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,

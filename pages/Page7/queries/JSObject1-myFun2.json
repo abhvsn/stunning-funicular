@@ -1,5 +1,4 @@
 {
-  "organizationId": "629366dec5dbf00e8452edeb",
   "pluginType": "JS",
   "pluginId": "js-plugin",
   "unpublishedAction": {
@@ -21,10 +20,7 @@
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": [
-        "async () => {",
-        "	}"
-      ],
+      "body": "async () => {\n\t}",
       "jsArguments": [],
       "isAsync": true
     },
@@ -39,7 +35,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "async () => {\n	}"
+      "async () => {\n\t}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,

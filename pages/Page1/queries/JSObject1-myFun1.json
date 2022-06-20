@@ -19,11 +19,7 @@
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": [
-        "() => {",
-        "		return \"appsmith\";",
-        "	}"
-      ],
+      "body": "() => {\n\t\treturn \"appsmith\";\n\t}",
       "jsArguments": [],
       "isAsync": false
     },
@@ -38,7 +34,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "() => {\n		return \"appsmith\";\n	}"
+      "() => {\n\t\treturn \"appsmith\";\n\t}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
